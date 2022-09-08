@@ -36,7 +36,7 @@ I have used following python libraries :
     
  Hope you like the project. All suggestions will be welcomed.
  
- Included Screenshot of our frontend
+ Included Screenshot of our frontend :)
  
  ![Screenshot (47)](https://user-images.githubusercontent.com/75946283/189034464-f5e7fb43-bc14-4b80-b2d3-87a79190b057.png)
 
