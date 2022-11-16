@@ -9,7 +9,7 @@ function onClickedEstimatedPrice(){
       date : date1.value
   }, function(data, status){
       console.log(data.estimated_price)
-      estP.innerHTML = "<h2>Predicted Price is : $"+data.estimated_price.toString()+"</h2>"
+      estP.innerHTML = "<h2>Predicted Price is : $"+data.estimated_price+"</h2>"
       console.log(status)
   })
 
